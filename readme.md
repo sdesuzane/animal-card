@@ -1,6 +1,7 @@
 # Projeto de Cards de Animais
 
-Este é um projeto simples de HTML e CSS que consiste em exibir 9 cards de animais diferentes. Cada card contém uma imagem e uma descrição do animal correspondente. Além disso, ao passar o mouse sobre o card, é aplicado um efeito de zoom na imagem.
+Este é um projeto simples de HTML e CSS que consiste em exibir 9 cards de animais diferentes. Cada card contém uma imagem e uma descrição do animal correspondente. Além disso, ao passar o mouse sobre o card, é aplicado um efeito de zoom na imagem. <br>
+Todos os cards estão em inglês.
 
 ## Tecnologias Utilizadas
 
